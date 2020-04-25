@@ -1,7 +1,9 @@
 function fish(){
 	this.name  = name;
-	console.log('this is fish')
-	console.log('this is fish2')
+	console.log('thang1');
+	console.log('thang2');
+	console.log('thang3');
+	console.log('thang4');
 
 }
 module.exports = fish;
